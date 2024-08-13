@@ -1,3 +1,5 @@
+* As the origin repository has stopped maintained but bugfix/improvement still need to be added*
+
 # Compilation Database Generator
 
 [![CircleCI branch](https://img.shields.io/circleci/project/github/nickdiego/compiledb/master.svg)](https://circleci.com/gh/nickdiego/compiledb)
