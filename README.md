@@ -1,4 +1,4 @@
-* As the origin repository has stopped maintained but bugfix/improvement still need to be added*
+*As the origin repository has stopped maintained but bugfix/improvement still need to be added*
 
 # Compilation Database Generator
 
